@@ -4,8 +4,8 @@ var fallObjects=new Array();function newObject(url,height,width){fallObjects[fal
 
 ///////////// EDIT THIS SECTION //////////////
 var numObjs=20, waft=50, fallSpeed=10, wind=0;
-newObject("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZOa4Xlq1snB9RfPk5u4tE8eU33virhV6oI8fflmYWN1Vn0X8-HCouCAq4vTEOo0w2lVYRZajmWOvZHMsvAqZM6lZ8je7gPpeivtg2mTfzV7qNTudCETSCbM9m7W6QAR_fkfasXiKsmo6FaV152p_jP8M5EH9CgBH276x6CetmBctz4pHNf95sFQOyDH8e/s1600/Cyt;byrf.png",24,24);
-newObject("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZOa4Xlq1snB9RfPk5u4tE8eU33virhV6oI8fflmYWN1Vn0X8-HCouCAq4vTEOo0w2lVYRZajmWOvZHMsvAqZM6lZ8je7gPpeivtg2mTfzV7qNTudCETSCbM9m7W6QAR_fkfasXiKsmo6FaV152p_jP8M5EH9CgBH276x6CetmBctz4pHNf95sFQOyDH8e/s1600/Cyt;byrf.png",24,24);
+newObject("http://1.bp.blogspot.com/-2NxLWnI8drc/TVXwQOLdCII/AAAAAAAABKE/MKKEs1RAMfo/s1600/heart9.gif",16,15);
+newObject("http://1.bp.blogspot.com/-2NxLWnI8drc/TVXwQOLdCII/AAAAAAAABKE/MKKEs1RAMfo/s1600/heart9.gif",16,15);
 
 //////////////////////////////////////////////
 
